@@ -1,0 +1,22 @@
+{
+  "name": "my-ner-wdr",
+  "version": "1.0.0",
+  "description": "NER with WebDataRocks data analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-ner-wdr"
+  },
+  "keywords": [
+    "NER",
+    "pivot"
+  ],
+  "author": "mrBettazzi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "webdatarocks": "^1.0.2"
+  }
+}
